@@ -98,7 +98,7 @@ Base URL: `/api`
 5. Output directory: `dist`
 
 ## 💻 Repository Link
-- [https://github.com/SOrtINgmASteR/Programming-Hero-Level-2-Assignment-2](GitHub Repository Link)
+- [GitHub Link](https://github.com/SOrtINgmASteR/Programming-Hero-Level-2-Assignment-2)
 
 ## 💻 Vercel Link
-- [https://devpulse-api-six.vercel.app/](GitHub Repository Link)
+- [Vercel Live Link](https://devpulse-api-six.vercel.app/)
