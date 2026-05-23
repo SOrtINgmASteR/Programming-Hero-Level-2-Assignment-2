@@ -101,4 +101,4 @@ Base URL: `/api`
 - [GitHub Link](https://github.com/SOrtINgmASteR/Programming-Hero-Level-2-Assignment-2)
 
 ## 💻 Vercel Link
-- [Vercel Live Link](https://devpulse-api-six.vercel.app/)
+- [Vercel Live Link](https://devpulse-api-six.vercel.app)
